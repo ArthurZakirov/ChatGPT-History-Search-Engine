@@ -1,3 +1,16 @@
+<img src="images/chatgpt_to_notion.png" alt="Example Image" width="500"/>
+
+# Motivation
+Your ChatGPT conversations hold a wealth of information about your thoughts and ideas, making them a valuable resource for reflecting on your personal development. Revisiting the insights of your younger self can be both enlightening and transformative.
+
+Unfortunately, ChatGPT does not currently provide a built-in search function, nor does it allow sorting or labeling your chats for easy organization.
+
+This project addresses these limitations by making your old GPT chats searchable and manageable in two ways:
+
+Command-Line Search: Quickly find specific information directly from the command line.
+Notion Integration: Bulk upload your chats to a Notion database, enabling you to organize, tag, and sort them as needed.
+
+
 # Data Setup
 
 ### 1. Download Your ChatGPT Data
